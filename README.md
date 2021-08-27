@@ -4,4 +4,5 @@
 - 🤖  Написал [бота шифра](https://vk.com/mixowlcrypt), [бота калькулятор](https://vk.com/mixowlcalculator)
 - 📕  Есть собственный сайт визитка: [levkopo.ru](https://levkopo.ru)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=levkopo&count_private=true&theme=github_dark)
+
+![levkopo's GitHub stats](https://github-readme-stats.vercel.app/api?username=levkopo&count_private=true&theme=github_dark)
