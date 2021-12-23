@@ -5,3 +5,4 @@
 
 
 ![levkopo's GitHub stats](https://github-readme-stats.vercel.app/api?username=levkopo&count_private=true&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=levkopo&layout=compact&hide=html&bg_color=00000000&text_color=7a7a7a)
