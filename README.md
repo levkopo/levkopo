@@ -1,5 +1,5 @@
 # Hi there!
-- 🙃  I am a russian programmer, creator of [Little Cat Language](https://github.com/lclang)? [KayJam](https://github.com/KayJamLang), language, author of apipp libraries, dbpp from [pp ecosystem](https://github.com/ppeco) and i write my social network — Zation
+- 🙃  I am a russian programmer, creator of [Little Cat Language](https://github.com/lclang), [KayJam](https://github.com/KayJamLang), language, author of apipp libraries, dbpp from [pp ecosystem](https://github.com/ppeco) and i write my social network — Zation (private)
 - 🤔  I write in Java, Kotlin, PHP
 - 📕  Have own site: [levkopo.ru](https://levkopo.ru)
 
