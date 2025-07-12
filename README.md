@@ -1,5 +1,4 @@
-![Frame 108](https://github.com/levkopo/levkopo/assets/40952805/b4028b53-a43a-44bf-8b4b-2a69521022f0)
-
+<img width="1047" height="251" alt="banner" src="https://github.com/user-attachments/assets/bec44091-4fcd-4a02-b6b6-2db64c0d45bd" />
 
 # Hi there!
 - 🙃  I am a russian programmer, creator of [Little Cat Language](https://github.com/lclang), [KayJam language](https://github.com/KayJamLang) and i write my social network — [Zation](https://zation.ru). Main contributor of [ZationUI Library](https://github.com/ZationRU/ReactUI)
