@@ -10,6 +10,3 @@
 |Статистика|Используеме языки|
 |-|-|
 | ![Статистика](https://github-readme-stats.vercel.app/api?username=levkopo&show_icons=true&theme=dark&hide_title=true) | ![Используеме языки](https://github-readme-stats.vercel.app/api/top-langs/?username=levkopo&show_icons=true&theme=dark&hide_title=true) |
-
-
-![Трофеи](https://github-profile-trophy.vercel.app/?username=levkopo&theme=radical&margin-w=40&margin-h=40)
